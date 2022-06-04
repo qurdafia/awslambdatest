@@ -1,0 +1,7 @@
+{
+  "body": {
+    "title": "Test Event",
+    "description": "Test description",
+    "price": 3.0
+  }
+}
